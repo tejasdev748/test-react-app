@@ -1,10 +1,7 @@
-import './App.scss'
-import Button from './components/button/button'
+import "./App.scss";
 
 function App() {
-  return (
-    <Button/>
-  )
+  return <div>Hello</div>;
 }
 
-export default App
+export default App;
